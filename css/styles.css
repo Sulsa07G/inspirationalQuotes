@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+#button{
+    text-align: center;
+    background-color: rgb(13, 170, 13);
+    font-size: 125%;
+    color: white;
+    margin-left: 125px;
+    margin-right: 125px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25%;
+}
+#button:hover {
+    background-color: #00be9f;
+}
+#quote-text{
+    text-align: center;
+}
+#quote-author{
+    text-align: center;
+}
+.box{
+    border: 1px solid white;
+    border-radius: 3%;
+    max-width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+body{
+    background-color: lightgrey;
+}
+.box-two{
+    margin: 20px 20px;
+    padding: 20px 20px;
+    border-radius: 3%;
+    background-color: rgba(211, 211, 211, 0.336);
+}
